@@ -11,3 +11,6 @@ build:
 
 test_docker:
 	docker run --rm -p 9323:9323 $(REPO)/$(APP)
+
+push:
+	docker push $(REPO)/$(APP)
