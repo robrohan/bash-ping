@@ -7,3 +7,4 @@ Bash Ping is a docker container with a few bash scripts that ping defined server
 - Uses _curl_ not ping so if ICMP is off, you should still get a response if up
 - Reports results to https://localhost:9323/metrics which can be used as a Grafana data source
 
+![Example Grafana Screenshot](docs/example.png)
