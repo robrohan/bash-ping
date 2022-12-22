@@ -1,0 +1,7 @@
+# Thu 22 Dec 2022 03:27:43 UTC
+custom_ping_handler{host="https://robrohan.com"} 0
+custom_ping_handler{host="http://therohans.com"} 0
+custom_ping_handler{host="http://alskdfalskdfjalskfdjasldf.com"} 6
+custom_ping_handler{host="https://xn--yety43f.com"} 0
+custom_ping_handler{host="https://labs.therohans.com"} 0
+custom_ping_handler{host="gopher://gopher.robrohan.com"} 0
