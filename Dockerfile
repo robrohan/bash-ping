@@ -20,6 +20,4 @@ RUN chmod 0644 /etc/cron.d/crontab && \
 
 RUN touch /var/log/cron.log
 
-# CMD ["systemctl", "start", "cron"]
-
 ENTRYPOINT ["./server.sh"]
